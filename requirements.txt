@@ -22,8 +22,6 @@ protobuf==6.33.1
 pyarrow==21.0.0
 pydeck==0.9.1
 pypdf==6.2.0
-streamlit==1.51.0
-google-genai==0.3.0
 python-dateutil==2.9.0.post0
 pytz==2025.2
 referencing==0.37.0
@@ -39,3 +37,4 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+google-genai==0.3.0
